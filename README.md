@@ -1,16 +1,13 @@
-## AIFaceswap[https://aifaceswap.io/]
+## AIFaceswap (https://aifaceswap.io/)
 
-<!--
-**AIFaceswap/AIFaceswap** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**AI Faceswap** is an advanced face-swapping tool that offers a seamless and intuitive way to swap faces across different media formats. With AI-powered technology, it ensures high-quality and realistic results for photos, videos, GIFs, and more.
 
-Here are some ideas to get you started:
+### Key Features:
+- **Photo Face Swap**: Easily swap faces in individual or group photos with accuracy and natural appearance.
+- **Multiple Face Swap**: Swap multiple faces simultaneously in one image for group editing or complex projects.
+- **Video Face Swap**: Apply face swaps to videos frame by frame, creating smooth and consistent face transformations.
+- **GIF Face Swap**: Swap faces in animated GIFs while preserving motion and expressions.
+- **Batch Face Swap**: Efficiently swap faces across multiple images or videos in a single batch, saving time and effort for large-scale projects.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Whether you are looking to have fun, create art, or manage professional editing, **AI Faceswap** provides the tools to make it all possible with just a few clicks.
+
